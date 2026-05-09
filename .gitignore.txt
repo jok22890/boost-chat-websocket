@@ -1,0 +1,12 @@
+# Временные файлы Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+out/
+build/
+*.user
+*.pdb
+
+# Файлы vcpkg
+vcpkg_installed/
